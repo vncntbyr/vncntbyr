@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vncntbyr
 - 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Other Projects can be found at https://gitlab.com/vncntbyr
 
 <!---
 vncntbyr/vncntbyr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
