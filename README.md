@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vncntbyr
-- 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning ReactJS
-- 📫 Other Projects can be found at https://gitlab.com/vncntbyr
+- 👀 I’m interested in Frontend Development
+- 🌱 I currently work at dmTECH GmbH
+- My skills include: Typescript, React, ReactNative, Jest, CodeceptJS, Python, SQL, A/B-Testing, Analytics, Tracking, UX, Design Thinking, Scrum + Kanban
 
 <!---
 vncntbyr/vncntbyr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
